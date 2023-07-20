@@ -20,7 +20,6 @@ Nota: Recuerda que en el archivo   puedes definirlo como: .
 _1
 routes.rb
  root ‘nombre_controlador#nombre_método’
- www.desafiolatam.com
  3. Deberá existir un controlador que gestione la visualización de cada vista con sus respectivos métodos.
 (2 Puntos)
 4. En la vista de /projects deberás agregar al menos 3 imágenes de proyectos realizados hasta el momento, podrás utilizar el componente Card de Bootstrap y modificar el botón de “ver más” con estilos personalizados desde CSS.
